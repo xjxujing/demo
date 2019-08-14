@@ -2,7 +2,7 @@
   <div class="register">
     <section class="form_container">
       <div class="manage_tip">
-        <span class="title">米修在线后台管理系统</span>
+        <span class="title">后台资金流水管理系统</span>
         <!-- status-icon	是否在输入框中显示校验结果反馈图标 -->
         <!-- rules	表单验证规则 -->
         <!-- model	表单数据对象 -->
